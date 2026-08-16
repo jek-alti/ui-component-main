@@ -1,6 +1,6 @@
 # Claude Code 프롬프트 모음
 
-- 프로젝트: `/Users/codevillain/Claude-Code-Expert/ui-component`
+- 프로젝트: `/Users/gracej/Claude/study/cc_master_실습/ui-component-main`
 - 범위: cwd 전체 합본
 - 추출 시각: 2026-06-19 18:27:01
 
@@ -82,4 +82,16 @@ main 브랜치에 푸시하면 자동으로 github pages에 자동으로 배포�
 ### 11. 2026-06-19
  현재 프로젝트를 한장으로 export 하는 스크립트를 만들어서 외부 프로젝트에서도 사용할 수 있도록 해주고, js, css, html 이 하나의 경로에 있어서
   참조시 깨지지 않도록 해. 그대로 복사해서 프로젝트에 넣은뒤 사용할거야. ultrathink
+
+### 11. 2026-08-16
+
+setting.local.json 설정 파일을 만들려고 하는데, 세션이 닫힐때  extract-my-prompts.sh를 hook을 넣어줘
+
+### 12. 2026-08-16
+
+메세지는 prompt.md 기록 갱신 중...   으로 추가해줘
+
+### 13. 2026-08-16
+
+코드자 md 파일내에 현재 물리적 디렉토리와 다른 디렉토리가 있다면 현행화해줘
 
